@@ -1,0 +1,29 @@
+
+.footer{
+   background-color:#008040;
+    height: 100px;  
+}
+
+.col{
+   
+}
+#col2{
+   background-color:black;
+    }
+    .form{
+        width: 70%;
+        margin: 0 auto;
+       margin-top: 60px;
+       margin-bottom: 30px;
+        
+    }
+    .form-control{
+        margin-bottom:1px;
+    }
+.profilepic{
+    width: 100px;
+    height: 100px;
+}
+{
+    color: white;
+}
