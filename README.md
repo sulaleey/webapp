@@ -8,7 +8,7 @@ PHP was used as the server scripting language
 MySQL was used for the design of the database.  
 4
 Install XAMPP or WAMP in order to open the webapp.
-create a database name assignmentdb and import the database file assignment_fb
+create a database name assignmentdb and import the database file assignmentdb
   
 
 
