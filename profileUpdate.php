@@ -139,3 +139,4 @@ $query = mysqli_query($conn, $sql);
 <?php  include('footer.inc') ?>
 </div><!-- body close here -->
 </body>
+</hmtl>
