@@ -90,7 +90,7 @@ if($num_rows>0){
     $_SESSION['status']= 'login';
     $_SESSION['user']= $record['fullname'];
     $_SESSION['email']= $record['email'];
-    header('location:profile.php');
+    header('location:home.php');
     exit();
     }
     else {
