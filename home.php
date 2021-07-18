@@ -133,7 +133,7 @@ while($record1 = mysqli_fetch_assoc($query1)){
 <?php  include('footer.inc') ?>
 </div><!-- body close here -->
 </body>
-</html>
+
 <?php
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
 $pdate = date('Y/m/d');
