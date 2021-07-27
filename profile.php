@@ -2,7 +2,7 @@
 <head>
 <link rel="stylesheet" href="css/mycss.css">
 <link rel="stylesheet" href="css/bootstrap.css">
-<title></title>
+<title>Profile</title>
 </head>
 <body>
 <div class="container-fluid" ><!-- Body start here -->
