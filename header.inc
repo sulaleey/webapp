@@ -4,7 +4,8 @@
   <li class="nav-item">
       </li>
 </ul>
-</div><!-- nav close here -->
+</div>
+<!-- nav close here -->
 </div>
 
  <header class="p-3 bg-success text-white">
