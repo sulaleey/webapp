@@ -34,7 +34,7 @@
       <div class="col-md-6">
         <div class="h-100 p-5 text-white bg-success rounded-3">
           <h2>Computer Science Department</h2>
-          <p>Understand More requiremet to study Computer science</p>
+          <p>Understand More requirement to study Computer science</p>
           <button class="btn btn-outline-light" type="button">Read More</button>
         </div>
       </div>
