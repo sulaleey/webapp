@@ -1,5 +1,5 @@
 This is a web-based application for data capturing.
-HTMLThis is a web-based application for data capturing.
+HTML This is a web-based application for data capturing.
 1
 HTML and CSS were used to design the User Interface.
 2
