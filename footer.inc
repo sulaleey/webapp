@@ -37,6 +37,7 @@
     <p  style="color: white;" class="mt-5 mb-3 text-center" >&copy; Group Assigment Computer Science Department MAU Yola <?php echo date('Y')?></p>
 </span>
   </div>  
-</nav><!-- footer nav close here -->
+</nav>
+<!-- footer nav close here -->
 
 
